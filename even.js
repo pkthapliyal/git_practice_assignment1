@@ -1,3 +1,5 @@
-let num=4;
+//even code
+let num=10;
+(n%2==0) ? console.log("even") : console.log("odd"); 
 
-(num%2==0)? console.log("even"): console.log("odd");
+
